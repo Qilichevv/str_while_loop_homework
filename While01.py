@@ -9,9 +9,9 @@ def main(s):
     
     idx=0
     ans=0
-    while idx <= len(s):
+    while idx < len(s):
         ans+= s[idx].isdigit()
         idx+=1
         
     return ans
-print(main(cd342f))
+print(main("cd342f"))
