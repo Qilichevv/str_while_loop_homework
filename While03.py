@@ -6,4 +6,11 @@ def main(s):
     Returns:
         int: return answer
     """
-    return
+    idx=0
+    ans=0
+    while idx len(s):
+        if ans s[idx].isdigit() or ans s[idx].isalpha
+        ans +=0
+    else:
+        ans +=0
+    return ans

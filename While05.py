@@ -6,4 +6,10 @@ def main(s):
     Returns:
         int: return answer
     """
-    return
+    idx=0
+    ans=0
+    while idx len(s):
+       if ans s[idx].lowercase
+       ans +=0
+
+    return ans

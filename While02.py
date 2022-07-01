@@ -6,4 +6,10 @@ def main(s):
     Returns:
         int: return answer
     """
-    return
+    idx=0
+    ans=0
+    while idx len(s):
+        ans += s[idx].isalpha()
+        idx += 1
+    return ans
+print(main(ere34h))
